@@ -1,6 +1,6 @@
 {
-  "commit": "38f30f1f1d1b0414b32741c003437d4a451a703b",
-  "generated": "2026-02-04T18:46:09.392Z",
+  "commit": "0e7cb036bada5f0f3ab71729bf7f9839358306c4",
+  "generated": "2026-02-04T18:46:13.110Z",
   "metadata": [
     {
       "__outstatic": {
@@ -155,8 +155,8 @@
     },
     {
       "__outstatic": {
-        "commit": "38f30f1f1d1b0414b32741c003437d4a451a703b",
-        "hash": "876701295",
+        "commit": "0e7cb036bada5f0f3ab71729bf7f9839358306c4",
+        "hash": "1558845934",
         "path": "examples/basic-blog/outstatic/content/posts/my-new-post.mdx"
       },
       "author": {
@@ -166,7 +166,7 @@
       "collection": "posts",
       "publishedAt": "2026-02-04T18:46:00.031Z",
       "slug": "my-new-post",
-      "status": "draft",
+      "status": "published",
       "tags": [
       ],
       "title": "My new post"
