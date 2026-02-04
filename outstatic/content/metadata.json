@@ -1,6 +1,6 @@
 {
-  "commit": "2a5d1c830676d57fef678515c852cf740eea5163",
-  "generated": "2026-02-04T19:40:20.177Z",
+  "commit": "e7b2301f73cc16a39b230655f21526f0fa0df0a9",
+  "generated": "2026-02-04T19:40:50.297Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,24 +136,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "0e7cb036bada5f0f3ab71729bf7f9839358306c4",
-        "hash": "1558845934",
-        "path": "examples/basic-blog/outstatic/content/posts/my-new-post.mdx"
-      },
-      "author": {
-        "name": "Adnan Gondal",
-        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-02-04T18:46:00.031Z",
-      "slug": "my-new-post",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "My new post"
     },
     {
       "__outstatic": {
