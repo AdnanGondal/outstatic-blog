@@ -136,22 +136,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "45025840b485e57748f866723b0bf0f70b746769",
-        "hash": "3463968305",
-        "path": "examples/basic-blog/outstatic/content/projects/new-project.mdx"
-      },
-      "author": {
-        "name": "Adnan Gondal",
-        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2026-02-04T19:16:55.940Z",
-      "slug": "new-project",
-      "status": "published",
-      "title": "New Project"
     }
   ]
 }
