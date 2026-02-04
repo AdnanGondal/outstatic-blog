@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2026-02-04T18:44:33.989Z",
+  "commit": "38f30f1f1d1b0414b32741c003437d4a451a703b",
+  "generated": "2026-02-04T18:46:09.392Z",
   "metadata": [
     {
       "__outstatic": {
@@ -152,6 +152,24 @@
       "slug": "my-first-page",
       "status": "published",
       "title": "My first page"
+    },
+    {
+      "__outstatic": {
+        "commit": "38f30f1f1d1b0414b32741c003437d4a451a703b",
+        "hash": "876701295",
+        "path": "examples/basic-blog/outstatic/content/posts/my-new-post.mdx"
+      },
+      "author": {
+        "name": "Adnan Gondal",
+        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-02-04T18:46:00.031Z",
+      "slug": "my-new-post",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "My new post"
     }
   ]
 }
