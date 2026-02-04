@@ -1,6 +1,6 @@
 {
-  "commit": "0e7cb036bada5f0f3ab71729bf7f9839358306c4",
-  "generated": "2026-02-04T18:46:13.110Z",
+  "commit": "45025840b485e57748f866723b0bf0f70b746769",
+  "generated": "2026-02-04T19:17:52.586Z",
   "metadata": [
     {
       "__outstatic": {
@@ -170,6 +170,22 @@
       "tags": [
       ],
       "title": "My new post"
+    },
+    {
+      "__outstatic": {
+        "commit": "45025840b485e57748f866723b0bf0f70b746769",
+        "hash": "3463968305",
+        "path": "examples/basic-blog/outstatic/content/projects/new-project.mdx"
+      },
+      "author": {
+        "name": "Adnan Gondal",
+        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
+      },
+      "collection": "projects",
+      "publishedAt": "2026-02-04T19:16:55.940Z",
+      "slug": "new-project",
+      "status": "published",
+      "title": "New Project"
     }
   ]
 }
