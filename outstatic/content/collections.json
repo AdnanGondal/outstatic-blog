@@ -8,13 +8,13 @@
   {
     "title": "Posts",
     "slug": "posts",
-    "path": "outstatic/content/pages",
+    "path": "outstatic/content/posts",
     "children": []
   },
   {
     "title": "Projects",
     "slug": "projects",
-    "path": "outstatic/content/pages",
+    "path": "outstatic/content/projects",
     "children": []
   }
 ]
