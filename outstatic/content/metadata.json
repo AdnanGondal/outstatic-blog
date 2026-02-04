@@ -136,56 +136,6 @@
       "slug": "flycream-travel",
       "status": "published",
       "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "955208746",
-        "path": "examples/basic-blog/outstatic/content/pages/my-first-page.mdx"
-      },
-      "author": {
-        "name": "Adnan Gondal",
-        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
-      },
-      "collection": "pages",
-      "publishedAt": "2026-02-04T18:44:20.301Z",
-      "slug": "my-first-page",
-      "status": "published",
-      "title": "My first page"
-    },
-    {
-      "__outstatic": {
-        "commit": "0e7cb036bada5f0f3ab71729bf7f9839358306c4",
-        "hash": "1558845934",
-        "path": "examples/basic-blog/outstatic/content/posts/my-new-post.mdx"
-      },
-      "author": {
-        "name": "Adnan Gondal",
-        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
-      },
-      "collection": "posts",
-      "publishedAt": "2026-02-04T18:46:00.031Z",
-      "slug": "my-new-post",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "My new post"
-    },
-    {
-      "__outstatic": {
-        "commit": "45025840b485e57748f866723b0bf0f70b746769",
-        "hash": "3463968305",
-        "path": "examples/basic-blog/outstatic/content/projects/new-project.mdx"
-      },
-      "author": {
-        "name": "Adnan Gondal",
-        "picture": "https://avatars.githubusercontent.com/u/43793942?v=4"
-      },
-      "collection": "projects",
-      "publishedAt": "2026-02-04T19:16:55.940Z",
-      "slug": "new-project",
-      "status": "published",
-      "title": "New Project"
     }
   ]
 }
