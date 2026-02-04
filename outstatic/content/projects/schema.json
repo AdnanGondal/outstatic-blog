@@ -1,0 +1,12 @@
+{
+  "title": "projects",
+  "type": "object",
+  "properties": {
+    "project": {
+      "description": "project",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Project"
+    }
+  }
+}
